@@ -1,1 +1,4 @@
-print('Источники и новый файл')
+class Source:
+
+    def msg(self):
+        print('Источники и новый файл')
