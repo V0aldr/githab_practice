@@ -1,2 +1,6 @@
-print('Источники и новый файл')
-print('Version v2.0')
+class Source:
+
+    def msg(self):
+        print('Класс Source')
+s = Source()
+print(s.msg)
